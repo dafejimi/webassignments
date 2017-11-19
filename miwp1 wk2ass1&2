@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	      <title>WEEK 2 ASSIGNMENT 1</title>
+		    <link rel="stylesheet" href="miwp wk2ass.css" />
+	  </head>
+	
+	  <body>
+	      <div class="navlink">
+		        <a href="#" >Nav Link1</a>
+			      <a href="#" >Nav Link2</a>
+			      <a href="#" >Nav Link3</a>
+			      <a href="#" >Nav Link4</a>
+			      <a href="#" >Nav Link5</a>
+		    </div>
+        
+		    <header><h1>WelcomeTo Responsive Web Design</h1></header>
+		    <div class="box">
+		        <span id="topleft">L-top</span>
+			      <span id="topright">R-top</span>
+			      <span id="bottomleft">L-bottom</span>
+			      <span id="bottomright">R-bottom</span>
+		        <div id="b">
+		   	    </div>
+		    </div>
+
+		    <section>
+		        <footer>copyright 2017 company</footer>
+		    </section>
+   </body>
+</html>
