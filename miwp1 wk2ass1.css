@@ -1,0 +1,31 @@
+.navlink {background: black; padding:15px; text-align:center;}
+
+.navlink a {
+	display:inline-block;
+    padding: 10px 10px;     
+	color:white;
+	text-decoration: none;
+
+}
+a:hover {padding:7px;
+   background:yellow;
+   color: blue;
+   border-radius: 5px;}
+h1 {margin:2%;padding:20px;text-align:center;}
+
+.box #b {margin-left:120px;
+	padding:75px;
+    border:100px solid grey;
+	background:yellow;
+	width:60%;
+}
+
+footer {margin-top:50px;
+        padding:50px;
+		background:gray;
+		text-align:center;}
+.box span {position:relative; padding:8px; background:purple; border-radius:4px; bottom:10px; }		
+.box #topleft{margin-left:115px;float:left; bottom:0px;}
+.box #bottomleft{margin-left:-50px;float:left; bottom:-320px;}
+.box #topright{margin-right:160px;float:right; bottom:0px;}
+.box #bottomright{margin-right:-50px;float:right; bottom:-320px;}
