@@ -1,0 +1,93 @@
+.navlink {background: black; padding:5px; text-align:center; width:100%;}
+.navlink a {
+	display:inline-block;
+    padding: 1%;     
+	color:white;
+	text-decoration: none;
+}
+a:hover {padding:1%;
+   background:yellow;
+   color: blue;
+   border-radius: 10px;}
+h1 {margin:2%;padding:1.5%;text-align:center;}
+
+.box #b {margin-left:12.5%;
+	padding:4.8%;
+    border:100px solid grey;
+	background:yellow;
+	width:50%;
+}
+
+footer {margin-top:4%;
+        padding:2%;
+		background:gray;
+		text-align:center;
+		}
+.box span {position:relative; padding:8px; background:purple; border-radius:4px; }		
+.box #topleft{margin-left:12.5%;float:left; bottom:0px;}
+.box #bottomleft{margin-left:-3.2%;float:left; bottom:-320px;}
+.box #topright{margin-right:15%;float:right; bottom:0px;}
+.box #bottomright{margin-right:-3.2%;float:right; bottom:-320px;}
+
+@media only screen and (max-width: 450px) {.navlink {background: black; padding:5px; text-align:center; width:100%;}
+.navlink a {
+	display:inline-block;
+    padding: 1%;     
+	color:white;
+	text-decoration: none;
+}
+a:hover {padding:1%;
+   background:yellow;
+   color: blue;
+   border-radius: 5px;}
+h1 {margin:2%;padding:1.5%;text-align:center;}
+
+.box #b {margin-left:12.5%;
+	padding:5%;
+    border:30px solid grey;
+	background:yellow;
+	width:50%;
+}
+
+footer {margin-top:4%;
+        padding:2%;
+		background:gray;
+		text-align:center;
+		}
+.box span {position:relative; padding:3px; background:purple; border-radius:4px; font-size:30%}		
+.box #topleft{margin-left:12.5%;float:left; bottom:0px;}
+.box #bottomleft{margin-left:-6%;float:left; bottom:-82px;}
+.box #topright{margin-right:10%;float:right; bottom:0px;}
+.box #bottomright{margin-right:-6%;float:right; bottom:-82px;}
+}
+@media only screen and (min-width: 451px) and (max-width: 800px){.navlink {background: black; padding:5px; text-align:center; width:100%;}
+.navlink a {
+	display:inline-block;
+    padding: 1%;     
+	color:white;
+	text-decoration: none;
+}
+a:hover {padding:1%;
+   background:yellow;
+   color: blue;
+   border-radius: 5px;}
+h1 {margin:2%;padding:1.5%;text-align:center;}
+
+.box #b {margin-left:12.5%;
+	padding:5%;
+    border:60px solid grey;
+	background:yellow;
+	width:50%;
+}
+
+footer {margin-top:4%;
+        padding:2%;
+		background:gray;
+		text-align:center;
+		}
+.box span {position:relative; padding:3px; background:purple; border-radius:4px; font-size:45%;}		
+.box #topleft{margin-left:12.5%;float:left; bottom:0px;}
+.box #bottomleft{margin-left:-3.2%;float:left; bottom:-182px;}
+.box #topright{margin-right:11.5%;float:right; bottom:0px;}
+.box #bottomright{margin-right:-3.2%;float:right; bottom:-182px;}
+}
