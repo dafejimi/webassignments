@@ -1,0 +1,18 @@
+#main {text-align:center;} 
+h3{ margin-top:50px;
+    margin-left:420px;
+	width:50%;
+	color:skyblue;
+}
+.a{ margin-left:300px;
+    margin-bottom:50px;
+    border:200px solid gray;
+	width:40%;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.a b {padding-top:40px;
+	padding-bottom:40px;
+	padding-left:40px;
+	padding-right:40px;
+}
